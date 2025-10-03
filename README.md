@@ -1,4 +1,4 @@
-# 📊 Análisis de la App **Bolívar Conmigo**
+# Análisis de la App **Bolívar Conmigo**
 
 Este repositorio contiene el desarrollo del **caso de negocio analítico** solicitado por Seguros Bolívar, enfocado en el análisis de la aplicación **Bolívar Conmigo** y la identificación de factores asociados a la **inactividad de los usuarios**, con el fin de proponer estrategias para mejorar la retención y el uso activo de la app.
 
