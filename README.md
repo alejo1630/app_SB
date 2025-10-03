@@ -59,19 +59,17 @@ Se trabajó con dos fuentes principales (archivo `Datos_Caso_2025.xlsx`):
 
 ## 💡 Estrategias Propuestas
 
-1. **Gamificación y recompensas**  
-   - Incentivos para mantener actividad posterior al registro y encuestas.  
-   - Retos personalizados según grupo de edad.
-
-2. **Segmentación de campañas**  
-   - Campañas específicas para hombres jóvenes y empleados (segmentos más inactivos).  
-   - Mensajes personalizados para usuarios con múltiples productos de seguros.  
-
-3. **Optimización del Onboarding**  
-   - Mejorar la experiencia inicial tras registro y survey para evitar abandono temprano.  
-
-4. **Monitoreo de cohortes**  
-   - Seguimiento mensual de tasas de actividad por edad, género y actividad económica.  
+- **Simplificar el flujo de registro y encuesta**, reduciendo pasos y tiempo.  
+- **Incentivos inmediatos** tras completar encuestas o registro.  
+- Personalizar notificaciones **con base en intereses más comunes**.  
+- Promover el uso de la app en **horarios no laborales** con notificaciones personalizadas favoreciendo las **microinteracciones**.  
+- Ofrecer **beneficios corporativos** (alianzas con empresas y planes colectivos).  
+- Unificar información de todos los seguros de una forma **simple** para reducir fricción.  
+- **Programas de fidelización**: a mayor número de productos contratados, **más beneficios digitales**.  
+- Crear campañas digitales enfocadas en el segmento **20–29 años** (Instagram, TikTok).  
+- **Gamificación**: retos y recompensas que generen **sensación de logro**.  
+- **Notificaciones inteligentes**: no solo recordatorios, sino mensajes de valor (“Tu plan te protege en viajes”, “Gana puntos extra esta semana”).  
+- Implementar **pruebas A/B** para optimizar la efectividad de flujos, campañas y notificaciones antes de su despliegue masivo.  
 
 ---
 
@@ -81,8 +79,4 @@ Se trabajó con dos fuentes principales (archivo `Datos_Caso_2025.xlsx`):
 - **Excel** como fuente de datos inicial  
 
 
----
 
-## 📢 Autor
-**Alejandro Castellanos Vargas**  
-Data Scientist | Machine Learning | Analítica de Negocios  
